@@ -10,7 +10,7 @@ const app = express();
 
 // ✅ Update this part to configure CORS properly
 app.use(cors({
-  origin: 'https://job-flow-wine.vercel.app',
+  origin: 'https://track-now-silk.vercel.app/',
   credentials: true, // If using cookies/auth headers
 }));
 
